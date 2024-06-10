@@ -10,9 +10,7 @@
 ### Estruturas Condicionais
 
 1. **if, else if, else**
-   A estrutura condicional `if` é usada para executar um bloco de código se uma condição for verdadeira. Se a condição não for verdadeira, você pode usar `else if` para verificar outra condição, e `else` para executar um bloco de código se nenhuma das condições anteriores for verdadeira.
-   
-   Exemplo:
+   A estrutura condicional `if` é usada para executar um bloco de código se uma condição for verdadeira.
    ```javascript
    let hora = 10;
    if (hora < 12) {
@@ -23,12 +21,9 @@
        console.log("Boa noite!");
    }
    ```
-   Explicação: Este código verifica a hora do dia e imprime uma saudação apropriada.
 
 2. **switch**
-   A estrutura `switch` é usada para executar diferentes partes de código com base no valor de uma expressão. É útil quando você tem muitas condições relacionadas.
-   
-   Exemplo:
+   A estrutura `switch` é usada para executar diferentes partes de código com base no valor de uma expressão.
    ```javascript
    let dia = 3;
    switch (dia) {
@@ -57,65 +52,72 @@
            console.log("Dia inválido");
    }
    ```
-   Explicação: Este código imprime o nome do dia da semana com base no número fornecido. O `default` é executado se nenhum dos casos corresponder.
 
 ### Loops
 
 1. **for**
-   O loop `for` é usado para executar um bloco de código um número específico de vezes. É composto por três partes: inicialização, condição e incremento.
-
-   Exemplo:
+   O loop `for` é usado para executar um bloco de código um número específico de vezes.
    ```javascript
    for (let i = 0; i < 5; i++) {
-       // Este código será executado 5 vezes
        console.log("Iteração número " + i);
    }
    ```
-   Explicação: O loop começa com `i` igual a 0 e executa o bloco de código até que `i` seja menor que 5, incrementando `i` em 1 a cada iteração.
 
 2. **while**
    O loop `while` é usado para executar um bloco de código enquanto uma condição for verdadeira.
-
-   Exemplo:
    ```javascript
    let contador = 0;
    while (contador < 5) {
-       // Este código será executado enquanto a condição for verdadeira
        console.log("Contagem: " + contador);
        contador++;
    }
    ```
-   Explicação: O loop continua executando o bloco de código enquanto `contador` for menor que 5, incrementando `contador` em 1 a cada iteração.
 
 3. **do-while**
    O loop `do-while` é semelhante ao `while`, mas garante que o bloco de código seja executado pelo menos uma vez.
-
-   Exemplo:
    ```javascript
    let contador = 0;
    do {
-       // Este código será executado pelo menos uma vez
        console.log("Contagem: " + contador);
        contador++;
    } while (contador < 5);
    ```
-   Explicação: O bloco de código é executado uma vez antes da condição ser verificada. Em seguida, o loop continua executando enquanto `contador` for menor que 5.
 
-4. **Loops Aninhados**
-   Às vezes, você pode precisar de um loop dentro de outro loop. Isso é chamado de loop aninhado.
+---
 
-   Exemplo:
-   ```javascript
-   for (let i = 0; i < 3; i++) {
-       // Este é o loop externo
-       console.log("Loop externo: " + i);
-       for (let j = 0; j < 2; j++) {
-           // Este é o loop interno
-           console.log("  Loop interno: " + j);
-       }
-   }
-   ```
-   Explicação: O loop interno é executado completamente cada vez que o loop externo é executado. No exemplo, o loop externo executa 3 vezes e o loop interno executa 2 vezes para cada iteração do loop externo.
+## Lista de Exercícios
+
+### Estruturas Condicionais
+1. **Verificação de Paridade:**
+   - Escreva um programa que recebe um número do usuário e verifica se o número é par ou ímpar.
+
+2. **Verificação de Nota:**
+   - Escreva um programa que recebe uma nota de 0 a 10 e exibe uma mensagem de acordo com a faixa da nota (ex: "Excelente", "Bom", "Regular", "Insuficiente").
+
+3. **Dias da Semana:**
+   - Escreva um programa que recebe um número de 1 a 7 e exibe o nome do dia da semana correspondente usando a estrutura `switch`.
+
+### Loops
+4. **Contagem Regressiva:**
+   - Escreva um programa que exibe uma contagem regressiva de 10 a 0 usando um loop `for`.
+
+5. **Tabuada:**
+   - Escreva um programa que solicita um número ao usuário e exibe a tabuada desse número de 1 a 10 usando um loop `while`.
+
+6. **Soma de Números:**
+    - Escreva um programa que solicita números ao usuário até que ele insira zero. O programa deve exibir a soma de todos os números inseridos usando um loop `do-while`.
+
+### Desafios
+7. **Fibonacci:**
+   - Escreva um programa que calcula e exibe os primeiros 10 números da sequência de Fibonacci usando um loop `for`.
+
+8. **Fatorial:**
+   - Escreva um programa que solicita um número ao usuário e calcula o fatorial desse número usando um loop `while`.
+
+9. **Números Primos:**
+   - Escreva um programa que exibe todos os números primos de 1 a 100 usando um loop `for`.
+
+---
 
 ### Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
