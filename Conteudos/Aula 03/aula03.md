@@ -137,7 +137,7 @@ Para executar JavaScript no Node.js, crie arquivos `.js` e execute-os usando o c
 ## Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
 
-- **Vídeo: Primeiros Passos com JavaScript - Curso em Vídeo**
+- **Vídeo: Primeiros Passos com JavaScript**
   [Primeiros Passos com JavaScript](https://www.youtube.com/watch?v=i6Oi-YtXnAU)
 - **Documentação Oficial do JavaScript (MDN Web Docs)**
   [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

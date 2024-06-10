@@ -122,7 +122,7 @@
 ### Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
 
-- **Vídeo: Estruturas de Controle em JavaScript - Curso em Vídeo**
+- **Vídeo: Estruturas de Controle em JavaScript**
   [Estruturas de Controle em JavaScript](https://www.youtube.com/watch?v=4Mkn2RP7-Lw)
 - **Documentação Oficial do JavaScript (MDN Web Docs)**
   [MDN Web Docs - Estruturas de Controle](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)

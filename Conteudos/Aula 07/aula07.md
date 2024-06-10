@@ -83,7 +83,7 @@ Explicação: Este exemplo declara uma função `executar` que recebe uma funç�
 ### Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
 
-- **Vídeo: Funções em JavaScript - Curso em Vídeo**
+- **Vídeo: Funções em JavaScript**
   [Funções em JavaScript](https://www.youtube.com/watch?v=6WB16wZS61c)
 - **Documentação Oficial do JavaScript (MDN Web Docs)**
   [MDN Web Docs - Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)

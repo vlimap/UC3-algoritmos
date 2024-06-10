@@ -154,7 +154,7 @@ Vamos aplicar esses operadores em exemplos simples do cotidiano.
 ### Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
 
-- **Vídeo: Operadores em JavaScript - Curso em Vídeo**
+- **Vídeo: Operadores em JavaScript**
   [Operadores em JavaScript](https://www.youtube.com/watch?v=xEKo29OWILE)
 - **Documentação Oficial do JavaScript (MDN Web Docs)**
   [MDN Web Docs - Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators)

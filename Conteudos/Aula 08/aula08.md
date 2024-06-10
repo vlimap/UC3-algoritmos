@@ -172,7 +172,7 @@ console.log(palavrasMaiusculas);  // saída: ["JAVASCRIPT", "ARRAYS", "FUNÇÕES
 ### Recursos Adicionais
 Para apoiar o aprendizado, utilize os seguintes vídeos e recursos:
 
-- **Vídeo: Arrays em JavaScript - Curso em Vídeo**
+- **Vídeo: Arrays em JavaScript**
   [Arrays em JavaScript](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 - **Documentação Oficial do JavaScript (MDN Web Docs)**
   [MDN Web Docs - Arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
