@@ -24,7 +24,7 @@ JavaScript é uma linguagem de programação que segue a sintaxe C-like. Abaixo 
 
    - **`var`**: Usado na versão mais antiga do JavaScript. Tem escopo de função e permite redeclaração.
      ```javascript
-     var nome = "Valtemir";
+     var nome = "Fulano";
      var nome = "João"; // permitido
      console.log(nome); // saída: João
      ```
